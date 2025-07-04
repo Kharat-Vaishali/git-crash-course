@@ -1,4 +1,15 @@
-function sayHello(){
-    console.log('Hello')
+// function sayHello(){
+//     console.log('Hello')
+// }
+// sayHello()
+
+
+let total = 0
+function myFunction(value){
+    total +=value
+    return total
 }
-sayHello()
+console.log(myFunction(5))
+console.log(myFunction(5))
+console.log(myFunction(50))
+console.log(myFunction(50))
