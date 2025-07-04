@@ -28,3 +28,5 @@ function sayHii(){
     console.log('Hello')
 }
 myFunction('vaishali',sayHii)
+
+console.log('Vaishali')
