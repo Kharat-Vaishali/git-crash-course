@@ -13,3 +13,6 @@ console.log(myFunction(5))
 console.log(myFunction(5))
 console.log(myFunction(50))
 console.log(myFunction(50))
+
+
+console.log('Hello')
