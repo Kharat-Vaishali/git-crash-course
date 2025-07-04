@@ -30,3 +30,5 @@ function sayHii(){
 myFunction('vaishali',sayHii)
 
 console.log('Vaishali')
+
+console.log('Hello')
