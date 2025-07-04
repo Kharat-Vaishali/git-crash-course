@@ -20,3 +20,9 @@ Promise.resolve().then(()=>{
 let msg = 'Bappa Please Help Me...............!'
 
 console.log('hellp')
+
+
+function sum(a,b){
+    return a + b
+}
+console.log(sum(12,12))
