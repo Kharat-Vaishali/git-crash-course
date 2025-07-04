@@ -17,9 +17,3 @@ Promise.resolve().then(()=>{
 },1000)
 
 
-let result =((a,b)=>{
-    setTimeout(()=>{
-        console.log(a + b)
-    },2000)
-})
-result(12,45)
